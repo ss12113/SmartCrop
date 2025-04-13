@@ -7,7 +7,8 @@
 
 ## 演示视频
 
-请前往观看演示视频：[点击这里查看演示视频](#)
+请前往观看演示视频：[点击这里查看演示视频](https://www.bilibili.com/video/BV1cBdBYoEaX/?share_source=copy_web&vd_source=77e773755b97ec73cb2e45c4ad9321cb)
+                    [点击这里查看介绍视频](https://www.bilibili.com/video/BV1WedBY8Ena/?share_source=copy_web&vd_source=77e773755b97ec73cb2e45c4ad9321cb)
 
 ## 模型文件
 
