@@ -12,7 +12,7 @@
 
 ## 模型文件
 
-模型文件已托管于 Hugging Face 仓库：[Smart-Crop 模型](https://hf-mirror.com/aiyawanan1112/Smart-Crop)
+模型文件已托管于 Hugging Face 仓库：[Smart-Crop 模型](https://hf-mirror.com/aiyawanan1112/Smart-Crop/tree/main)
 
 ---
 
